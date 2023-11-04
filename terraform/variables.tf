@@ -35,7 +35,7 @@ variable "cloud_run_service_name" {
 
 variable "cloud_run_docker_image" {
     type=string
-    # [REGION]-docker.pkg.dev/[PROJECT_ID]/[REPOSITORY_NAME]/[IMAGE_NAME]:[TAG]
+    # [REGION]-docker.pkg.dev/[PROJECT_ID]/[REPOSITORY_NAME]/[IMAGE_NAME]:[TAG] 
     default = "us-docker.pkg.dev/cloudrun/container/hello"
 }
 
