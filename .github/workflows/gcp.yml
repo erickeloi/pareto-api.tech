@@ -12,7 +12,7 @@ name: Build and Deploy to Cloud Run
 # when done testing, switch to 'master' only
 on:
   push:
-    branches: [ "hmg" ]
+    branches: [ "tests" ]
 
 env:
   PROJECT_ID: pareto-project
