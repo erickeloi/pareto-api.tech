@@ -17,11 +17,11 @@ Stack used:
   - OpenID Connect (OIDC) Identity Provider
 
 
-## Diagrama da Pipeline
-![Diagrama Github Actions](images/diagrama-png-1x.png)
+## Pipeline Diagram
+![Pipeline Diagram](images/diagrama-png-1x.png)
 
-## Site pareto-api.tech funcionando!
-![Site pareto-api.tech funcionando](images/dummyjson-gif.gif)
+## Site pareto-api.tech working!
+![Site pareto-api.tech working](images/dummyjson-gif.gif)
 
 ## What can be improved?
 0. Quality Gate and CI Pipeline
