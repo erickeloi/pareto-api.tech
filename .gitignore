@@ -1,0 +1,23 @@
+# Arquivos de variáveis que podem conter segredos
+*.tfvars
+secrets.auto.tfvars
+credentials.json
+
+# Arquivos de override que podem conter segredos
+override.tf
+override.tf.json
+*_override.tf
+*_override.tf.json
+
+# Arquivos de configuração CLI
+.terraformrc
+terraform.rc
+
+# Arquivos de log
+*.log
+
+# Arquivos do sistema
+.DS_Store
+.terraform/
+*.tfstate
+*.tfstate.*
