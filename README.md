@@ -31,3 +31,6 @@ Stack used:
 
 1. Configure Bucket to store and maintain Infrastructure Versioning
      - [ ] Configure remote backend in a GCP bucket to store and version the infrastructure states (it's good to prevent accidental data loss)
+
+2. Find a way to hide env variables from terraform apply/destroy/change
+     - [ ] Find a way to Hide Env Variables (ex: JWT_SECRET) From terraform output
