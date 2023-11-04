@@ -18,10 +18,10 @@ Stack used:
 
 
 ## Diagrama da Pipeline
-![Diagrama Github Actions](images\diagrama-png-1x.png)
+![Diagrama Github Actions](images/diagrama-png-1x.png)
 
 ## Site pareto-api.tech funcionando!
-![Site pareto-api.tech funcionando](images\dummyjson-gif.gif)
+![Site pareto-api.tech funcionando](images/dummyjson-gif.gif)
 
 <details>
 <summary><strong>Esquema de diretórios:</strong></summary>
